@@ -1,0 +1,19 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  
+}
+
+.conteiner{
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  flex-direction: column;
+  height: 50vh;
+  background-color: aliceblue;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+

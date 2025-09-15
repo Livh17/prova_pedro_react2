@@ -1,0 +1,20 @@
+
+
+.caixa-mae{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    flex-direction: column;
+    height: 50vh;
+    background-color: aliceblue;
+    margin-top: 50px;
+    border-radius: 20px;
+    gap: 20px;
+
+    .card{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+    
+}  
